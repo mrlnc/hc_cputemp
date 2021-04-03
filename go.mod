@@ -1,4 +1,4 @@
-module github.com/brutella/hklight
+module github.com/mrlnc/hkcputemp
 
 go 1.16
 
